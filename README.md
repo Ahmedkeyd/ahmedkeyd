@@ -3,9 +3,6 @@
 <h3 align="center">A passionate frontend developer from somalia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-<h1 align="center">Hi 👋, I'm ahmet hassan</h1>
-<h3 align="center">A passionate frontend developer from somalia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedkeyd&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedkeyd" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ina_hassan" target="blank"><img src="https://img.shields.io/twitter/follow/ina_hassan?logo=twitter&style=for-the-badge" alt="ina_hassan" /></a> </p>
